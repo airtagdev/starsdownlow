@@ -1,8 +1,9 @@
 <div align="center">
-    <h1>Interstellar Reloaded</h1>
+    <h1>Interstellar Private</h1>
     </div>
 <h2 align="center">Features</h2>
 <ul>
+    <li>Password Protection</li>
     <li>About:Blank Cloaking</li>
     <li>Fast Speeds</li>
     <li>Wide collection of Games</li>
