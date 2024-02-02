@@ -1,7 +1,7 @@
 {
   "name": "edu",
   "description": "?",
-  "repository": "https://github.com/airtagdev/starsuphigh",
+  "repository": "https://github.com/airtagdev/starsdownlow",
   "logo": "https://avatars.githubusercontent.com/u/103917385",
   "keywords": ["school", "math"],
   "image": "heroku/nodejs"
