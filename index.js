@@ -27,7 +27,6 @@ const routes = [
   { path: '/!', file: 'settings.html' },
   { path: '/0', file: 'tabs.html' },
   { path: '/&', file: 'go.html' },
-  { path: '/w', file: 'edu.html' },
   { path: '/e', file: 'now.html' },
 ]
 
