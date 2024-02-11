@@ -6,6 +6,12 @@ document.addEventListener('DOMContentLoaded', () => {
       image: '/assets/media/icons/request.webp',
       categories: ['all'],
     },
+	{
+	  name: '(NEW!) slowroads.io',
+	  link: 'https://slowroads.io',
+	  image: '/assets/media/icons/slowroads.png',
+	  categories: ['all'],
+	},
     {
       name: 'Amazon Luna',
       link: 'https://luna.amazon.com/',
